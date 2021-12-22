@@ -7,4 +7,6 @@ What is cool and interesting in this project is the filter wich is in the Rooms 
 price,Size etc..
 Each room has a personal space with details pictures etc...
 
+## 🥞 Tech Stack
 
+https://cdn.worldvectorlogo.com/logos/react-2.svg
