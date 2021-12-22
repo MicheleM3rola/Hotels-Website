@@ -7,6 +7,9 @@ What is cool and interesting in this project is the filter wich is in the Rooms 
 price,Size etc..
 Each room has a personal space with details pictures etc...
 
+
+
+
 ## 🥞 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -16,7 +19,9 @@ Each room has a personal space with details pictures etc...
 
 
 
-🚀🚀<a href="https://angry-lovelace-c27a9f.netlify.app/">Demo</a> 
+## 🚀🚀 Demo
+
+<a href="https://angry-lovelace-c27a9f.netlify.app/">Deployed</a> 
 
 
 
