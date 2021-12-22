@@ -10,12 +10,14 @@ Each room has a personal space with details pictures etc...
 ## 🥞 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://res.cloudinary.com/mike88/image/upload/v1640182172/contentful-logo_n4lejo.png" title="Contentful" alt="Contentful" width="40"/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-<a href="https://twitter.com/MicheleMerola15"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-&ensp;
+
+🚀🚀<a href="https://angry-lovelace-c27a9f.netlify.app/">Demo</a> 
+
 
 
 
